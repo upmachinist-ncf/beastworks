@@ -1,0 +1,16 @@
+{
+  "name": "Beastworks",
+  "short_name": "Beastworks",
+  "description": "Hatch creatures built from spare parts, look after them, and play nine mini-games.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eaf1ee",
+  "theme_color": "#eaf1ee",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
